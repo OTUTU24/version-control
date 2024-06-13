@@ -1,0 +1,1 @@
+GitHub is a cloud-based hosting service that lets you manage Git repositories.
